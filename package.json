@@ -1,0 +1,26 @@
+{
+  "name": "@bakerface/eslint-config-common",
+  "version": "1.0.0",
+  "description": "A set of common eslint configuration options",
+  "main": "index.js",
+  "author": "Chris Baker <mail.chris.baker@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/bakerface/eslint-config-common#readme",
+  "bugs": {
+    "url": "https://github.com/bakerface/eslint-config-common/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bakerface/eslint-config-common.git"
+  },
+  "dependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-import-resolver-babel-module": "^4.0.0",
+    "eslint-plugin-import": "^2.12.0",
+    "eslint-plugin-prettier": "^2.6.0",
+    "eslint-plugin-react": "^7.8.2",
+    "eslint-plugin-unicorn": "^4.0.3",
+    "prettier": "^1.13.0"
+  }
+}
