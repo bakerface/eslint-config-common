@@ -18,6 +18,7 @@ module.exports = {
     "unicorn"
   ],
   rules: {
-    "prettier/prettier": "error"
+    "prettier/prettier": "error",
+    "unicorn/filename-case": "off"
   }
 };

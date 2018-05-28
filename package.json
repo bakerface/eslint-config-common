@@ -1,6 +1,6 @@
 {
   "name": "@bakerface/eslint-config-common",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A set of common eslint configuration options",
   "main": "index.js",
   "author": "Chris Baker <mail.chris.baker@gmail.com>",
